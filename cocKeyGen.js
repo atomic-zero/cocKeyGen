@@ -1,3 +1,8 @@
+const axios = require('axios');
+const fs = require('fs');
+const path = require('path');
+const crypto = require('crypto');
+
 class Codebox4chan {
   constructor(email, password) {
     this.email = email;
