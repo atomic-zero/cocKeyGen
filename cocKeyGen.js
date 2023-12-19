@@ -165,7 +165,7 @@ class Codebox4chan {
 }
 
 // Usage example
-const reikodev = new Codebox4chan("example@gmail.com", "kennethpanio");
+const reikodev = new Codebox4chan("example@gmail.com", "kennethpanio");//replace this with your own email and password
 reikodev.createKey().then(apiKey => console.log(apiKey)).catch(error => console.error(error));
 
 /*
