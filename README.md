@@ -6,7 +6,7 @@
 
 Codebox4chan - Open Source Clash of Clans Developer API Key Manager
 Author: [reiko dev | codebox4chan | Kenneth Panio]
-GitHub: https://github.com/yourusername/codebox4chan
+GitHub: [https://github.com/codebox4chan]
 License: MIT License
 
 
